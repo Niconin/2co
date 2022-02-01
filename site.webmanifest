@@ -1,0 +1,14 @@
+{
+    "name": "2conin\u306e\u3086\u3063\u304f\u308a\u5b9f\u6cc1\u6240",
+    "short_name": "2conin\u306e\u3086\u3063\u304f\u308a\u5b9f\u6cc1\u6240",
+    "icons": [
+        {
+            "src": "/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
